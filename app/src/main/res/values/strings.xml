@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Supabase Chat Demo</string>
+    <string name="message">Message</string>
+
+    <string name="default_notification_channel_id">channel_id_01</string>
+    <string name="default_notification_channel_name">FCM</string>
+    <string name="type_something">Type something..</string>
+    <string name="logout">Logout</string>
+    <string name="chat">Chat</string>
+    <string name="usres">Users</string>
+</resources>
